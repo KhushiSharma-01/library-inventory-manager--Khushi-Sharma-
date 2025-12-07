@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "108",
+    "status": "available"
+  },
+  {
+    "title": "PYTHON",
+    "author": "Guido van Rossum",
+    "isbn": "111",
+    "status": "available"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "101",
+    "status": "available"
+  },
+  {
+    "title": "Python",
+    "author": "Guido",
+    "isbn": "100",
+    "status": "available"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "101",
+    "status": "available"
+  }
+]

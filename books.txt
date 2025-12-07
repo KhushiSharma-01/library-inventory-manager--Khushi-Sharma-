@@ -1,0 +1,9 @@
+Harry Potter | J.K. Roeling | 101 | available
+India of My Dreams | Mahatma Gandhi | 102 | available
+Malgudi Days | R.K. Narayan | 103 | available
+GODAN | Munshi Premchand | 104 | available
+The Alchemist | Paulo Coelho | 105 | available
+The White Tiger | Aravind Adiga | 106 | available
+Train to Pakistan | Khushwant Singh | 107 | available
+PYTHON | GUIDO | 200 | available
+Ikigai | Hector Garcia | 100 | available
